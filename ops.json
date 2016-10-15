@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "53084f9e-fdc1-3d02-97f7-109a4110608f",
+    "name": "gleki",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d291e999-a3f9-34e6-8dc2-75e726d29281",
+    "name": "glekio",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
